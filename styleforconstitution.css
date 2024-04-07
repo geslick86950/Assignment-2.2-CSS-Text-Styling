@@ -1,0 +1,24 @@
+body{
+	background: linear-gradient(to right, #d9ff00, #e25757, #d6fcd6);
+	color: #074042;
+}
+
+h1{
+	color: #ff0000;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2{
+	color: #ff0000;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h3{
+	color: #ff0b03;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p{
+	color: #4703e7;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
